@@ -1,0 +1,20 @@
+### INSTALLATION
+
+Pour installer l'api il faut dans la console faire la commande:
+
+make fist-install
+
+Cette commande va créer la BDD, installer les dépendances et démarrer le server symfony.
+
+### CONDITIONS
+
+Pour que ce test technique reflète au maximum mes capacités, je n'ai pas utilisé les outils mis à ma disposition chez THINKFAB,
+nottement un bundle HTTP CLient rendant HTTP client utilisable par n'importe qui (c'est assez ouf).
+Je n'ai non plus pas ouvert les projets pro qui sont aussi à ma disposition.
+Tout ce qui à été fait est un mélange entre mes connaissances actuelles et GOOGLE^^
+Je me suis aussi imposé une limite de temps (8h de dev) pour ne pas abuser. Si j'avais travaillé 30h dessus ça n'aurai pas été pertinant je pense.
+
+### DIFFICULTES
+
+J'ai bien galéré à mettre en place le projet en php 8.1 SYMFONY 6.1, j'ai aussi eu de grande difficulté à consommé l'API (n'ayant pas l'outils que j'utilise),
+je n'avais donc pas de données à afficher d'où l'absence de front. J'ai quand même développé toutes les méthodes qui consomment l'API même si elles ne fonctionnent malheureusmeent pas...
